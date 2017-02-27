@@ -60,6 +60,6 @@ def get_all_tweets(screen_name):
 	pass
 
 
-if __name__ == '__main__':
+"""if __name__ == '__main__':
 	#pass in the username of the account you want to download
-	get_all_tweets("ruchir94")
+	get_all_tweets("ruchir94")"""
