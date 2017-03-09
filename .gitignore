@@ -1,3 +1,4 @@
 secret.json
 lib
 source
+*.pyc
